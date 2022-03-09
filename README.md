@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gimantha
 - 👀 I’m interested in Web/Mobile development, Cloud Computing
 - 🌱 I’m currently learning ...
-- 📫 Reach me on gimantha@liveroom.xyz
+- 📫 Reach me on gimantha.k98@gmail.com
 
 <!---
 gimanthaKB/gimanthaKB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
