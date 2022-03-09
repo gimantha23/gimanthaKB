@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gimantha
 - 👀 I’m interested in Web/Mobile development, Cloud Computing
-- 🌱 I’m currently learning ...
+<!-- - 🌱 I’m currently learning ... -->
 - 📫 Reach me on gimantha.k98@gmail.com
 
 <!---
